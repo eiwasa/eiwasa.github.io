@@ -141,9 +141,9 @@
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-top: -347px;
-    margin-right: 0;
-    margin-left: 470px;
+    margin-top: -352px;
+    margin-right: 21px;
+    margin-left: 488px;
   }
 }
 
@@ -154,13 +154,14 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 20px;
+    margin-right: 0;
     margin-left: 60px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-text-2 {
-    margin-left: 70px;
+    margin-left: 109px;
   }
 }
 

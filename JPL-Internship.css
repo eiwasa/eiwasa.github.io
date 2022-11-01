@@ -40,4 +40,14 @@
   .u-section-1 .u-text-4 {
     width: 340px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 159px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 11px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  margin: 32px auto;
 }
